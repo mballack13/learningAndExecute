@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0edf2407-decb-4052-9803-7038b428164b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap02_oop/pass01_appMain.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap03_intermediario/pass01_collectionList.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap03_intermediario/pass02_collectionSet.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap03_intermediario/pass03_collectionMap.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/AppMainKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/META-INF/KotlinEssencialAndroid.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/META-INF/KotlinEssencialAndroid.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass01_ifElseKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass01_ifElseKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass02_whenKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass02_whenKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass03_whileKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass03_whileKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass04_forKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass04_forKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass05_arraysKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass05_arraysKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass05_functionsKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap01_controleDeFluxo/Pass06_functionsKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Class01_pooKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/DataClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/DataLivro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/DataLivro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Dirigivel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Livro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Livro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/ModificadoresDeAcessoKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Potenciavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Veiculo$Barco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Veiculo$Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap02_oop/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap03_/Episodio01_excessoesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap03_/Episodio02_CollectionsListsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap03_/Episodio03_CollectionsSetKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/cap03_/Episodio04_CollectionsMapKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass01_ifElseKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass02_whenKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass03_whileKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass04_forKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass05_arraysKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/controleDeFluxo/Pass05_functionsKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Cachorro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Class01_pooKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/DataClassesKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/DataLivro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Dirigivel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Livro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/ModificadoresDeAcessoKt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Potenciavel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Veiculo$Barco.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Veiculo$Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/KotlinEssencialAndroid/orientacaoAhObj/Veiculo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AppMain.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap01_controleDeFluxo/pass05_functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/cap01_controleDeFluxo/pass06_functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap02_oop/class01_poo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap02_oop/dataClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap02_oop/modificadoresDeAcesso.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap03_/episodio01_excessoes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap03_/episodio02_CollectionsLists.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap03_/episodio03_CollectionsSet.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cap03_/episodio04_CollectionsMap.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass01_ifElse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass02_when.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass03_while.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass04_for.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass05_arrays.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controleDeFluxo/pass05_functions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orientacaoAhObj/class01_poo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orientacaoAhObj/dataClasses.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/orientacaoAhObj/modificadoresDeAcesso.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KotlinCodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1kx4b9meXlu1j0rUSgCyZ0SzyYj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="cap02_oop" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pass03_collectionMapKt">
+    <configuration name="Cap03_appMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssencialAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cap03_intermediario.Cap03_appMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pass01_appMainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssencialAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cap02_oop.Pass01_appMainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pass01_pooKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssencialAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cap02_oop.Pass01_pooKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pass03_collectionMapKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssencialAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cap03_intermediario.Pass03_collectionMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pass05_functionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinEssencialAndroid" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="controleDeFluxo.Pass05_functionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pass03_collectionMapKt" />
+        <item itemvalue="Application.Cap03_appMainKt" />
+        <item itemvalue="Application.Pass01_appMainKt" />
+        <item itemvalue="Application.Pass01_pooKt" />
+        <item itemvalue="Application.Pass05_functionsKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0edf2407-decb-4052-9803-7038b428164b" name="Default Changelist" comment="" />
+      <created>1606628980312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606628980312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
